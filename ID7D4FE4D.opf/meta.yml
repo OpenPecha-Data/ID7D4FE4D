@@ -1,0 +1,36 @@
+id: ID7D4FE4D
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:55:55.710807'
+last_modified: '2022-06-19T01:55:55.710821'
+parser: null
+source_metadata:
+  title: A mes zhabss History of the Cakrasaṃvaratantra
+  author: jam mgon a mes zhabs/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-05-20); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:bsam grub/ (Dharamsala) (sdr), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:bsam grub/
+  text_witnesses: https://sakyaresearch.org/sources/3097
+  bases:
+    e894:
+      title: A mes zhabss History of the Cakrasaṃvaratantra
+      order: 1
+      base_file: e894.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
